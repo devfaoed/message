@@ -1,3 +1,6 @@
+# Intro to the App
+
+A javascript code to indicate the numbers of mails according to their id and index present in a databse build with react
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
